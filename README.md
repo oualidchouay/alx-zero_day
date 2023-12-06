@@ -103,7 +103,7 @@ You can follow [this tutorial](https://intranet.alxswe.com/rltoken/coQUsDnam4suG
 
 Once it’s created, you should have a token that looks like this:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/a449483cd76a72cef1b42df831e686c64faa1cf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231206T141445Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=444d2c216836e6bffad1b2ab6faa7b637265de68080cc0b4ad4bfcc2862c3b54)
+![a449483cd76a72cef1b42df831e686c64faa1cf6](https://github.com/oualidchouay/alx-zero_day/assets/135179972/edab3397-701f-4834-9a00-09334abaa6b8)
 
 **Step 2 - Update your profile on the Intranet**
 
@@ -111,7 +111,7 @@ Update your Intranet profile by adding your Github username [here](https://intra
 
 If it’s not done **the Checker won’t be able to correct your work**
 
-
+<img width="909" alt="6270480a0a982cd1846b877eda2ee405d2e8f575" src="https://github.com/oualidchouay/alx-zero_day/assets/135179972/dd4e6fe2-6cf4-4ddb-8b14-d4d48d6869c8">
 
 **Step 3 - Create your first repository**
 
@@ -122,13 +122,13 @@ Using the graphic interface on the [github website](https://intranet.alxswe.com/
 -	Public repo
 -	No `README`, `.gitignore`, or license
 
-
+<img width="740" alt="2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775" src="https://github.com/oualidchouay/alx-zero_day/assets/135179972/d3eb0006-e9db-487c-bb46-e05adcc21164">
 
 **Step 4 - Open the sandbox**
 
-On the intranet, just under the task, click on the button  and `run` to start the machine.
+On the intranet, just under the task, click on the button <img width="125" alt="9db8eece71455dfddf4b7d8585c037c535f1d18d" src="https://github.com/oualidchouay/alx-zero_day/assets/135179972/936f224f-be8a-4439-bd2a-73f134697f3f"> and `run` to start the machine.
 
-Once the container is started, click on  to open a shell where you can start work from.
+Once the container is started, click on <img width="113" alt="be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df" src="https://github.com/oualidchouay/alx-zero_day/assets/135179972/61725706-9ac2-4b65-b06a-9bd668ec8552"> to open a shell where you can start work from.
 
 **Step 5 - Clone your repository**
 
