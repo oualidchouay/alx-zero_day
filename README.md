@@ -103,7 +103,7 @@ You can follow [this tutorial](https://intranet.alxswe.com/rltoken/coQUsDnam4suG
 
 Once it’s created, you should have a token that looks like this:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/a449483cd76a72cef1b42df831e686c64faa1cf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231206T141445Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=444d2c216836e6bffad1b2ab6faa7b637265de68080cc0b4ad4bfcc2862c3b54)
+![a449483cd76a72cef1b42df831e686c64faa1cf6](https://github.com/oualidchouay/alx-zero_day/assets/135179972/30520fe9-c069-47f6-8c66-74d21102d669)
 
 **Step 2 - Update your profile on the Intranet**
 
