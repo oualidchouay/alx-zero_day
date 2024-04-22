@@ -1,41 +1,27 @@
 ### 0x03. Git
 
-**Concepts**
---------------
-
-For this project, we expect you to look at these concepts:
-
-[Right-engineering, right-documenting](https://intranet.alxswe.com/concepts/6 "Right-engineering, right-documenting")
-
-[Source code management](https://intranet.alxswe.com/concepts/22 "Source code management")
-
-[Git and Github cheat sheet - Everything in less than 30 seconds](https://intranet.alxswe.com/concepts/57 "Git and Github cheat sheet - Everything in less than 30 seconds")
-
-[Authenticating Git](https://intranet.alxswe.com/concepts/100035 "Authenticating Git")
-
-[Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039 "Struggling with the sandbox? Try this: Using Docker & WSL on your local host")
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ### Resources
 
 **Read or watch:**
 
-[Resources to learn Git](https://intranet.alxswe.com/rltoken/YtcpriOT-x-WiyScwLpn4Q "Resources to learn Git")
+-	[Resources to learn Git](https://intranet.alxswe.com/rltoken/YtcpriOT-x-WiyScwLpn4Q "Resources to learn Git")
 
-[About READMEs](https://intranet.alxswe.com/rltoken/R7MeJ8alpK3JoVF8w24wiQ "About READMEs")
+-	[About READMEs](https://intranet.alxswe.com/rltoken/R7MeJ8alpK3JoVF8w24wiQ "About READMEs")
 
-[How to write a Git commit message](https://intranet.alxswe.com/rltoken/FYsjjR-97Hk4NJtgqzWdtQ "How to write a Git commit message")
+-	[How to write a Git commit message](https://intranet.alxswe.com/rltoken/FYsjjR-97Hk4NJtgqzWdtQ "How to write a Git commit message")
 
 **Resources for advanced tasks** (Read only after finishing the mandatory tasks):
 
-[Learning branching](https://intranet.alxswe.com/rltoken/tN8ZJ0yWubOP6jdciqtrFw "Learning branching")
+-	[Learning branching](https://intranet.alxswe.com/rltoken/tN8ZJ0yWubOP6jdciqtrFw "Learning branching")
 
-[Effective pull requests and other good practices for teams using GitHub](https://intranet.alxswe.com/rltoken/mjpQ9OCU0Dz-DFxZjASEJg "Effective pull requests and other good practices for teams using GitHub")
+-	[Effective pull requests and other good practices for teams using GitHub](https://intranet.alxswe.com/rltoken/mjpQ9OCU0Dz-DFxZjASEJg "Effective pull requests and other good practices for teams using GitHub")
+
 
 ### Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/jj0uPL9hiKF10KCH4u620A "explain to anyone"), without the help of Google:
+
 
 **General**
 
@@ -53,7 +39,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -	How to create a branch
 -	How to merge branches
 -	How to work as collaborators on a project
--	Which files should and which files should not appear in your repo
+-	Which files should and which files should not appear in your
+
 
 ### Requirements
 
@@ -63,6 +50,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -	A `README.md` file, at the root of the folder of this project (i.e. `0x03-git`), describing what this project is about
 -	**Do not use GitHub’s web UI**, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web UI). You won’t be able to perform many of the task requirements on the web UI, and you should start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.
 -	Your answer files should only contain the command, and nothing else
+
 
 ### More Info
 
@@ -86,10 +74,10 @@ $ git push origin main
 
 ### Tasks
 
+**mandatory**
+
+-------------------------------------------------------
 ### 0\. Create and setup your Git and GitHub account
-
-mandatory
-
 
 **Step 0 - Create an account on GitHub [if you do not have one already]**
 
@@ -225,10 +213,12 @@ You can now check your repository on GitHub to see if everything is good.
 
 -	GitHub repository: `alx-zero_day`
 -	File: `README.md`
+-------------------------------------------------------
 
+
+
+-------------------------------------------------------
 ### 1\. Repo-session
-
-mandatory
 
 Create a new directory called `0x03-git` in your `alx-zero_day` repo.
 
@@ -242,7 +232,10 @@ And important part: **Make sure your commit and push your code to Github - other
 **Repo:**
 
 -	GitHub repository: `alx-zero_day`
+-------------------------------------------------------
 
+
+-------------------------------------------------------
 ### 2\. Coding fury road
 
 For the moment we have an empty project directory containing only a `README.md`. It’s time to code!
@@ -262,10 +255,12 @@ For the moment we have an empty project directory containing only a `README.md`.
 -	GitHub repository: `alx-zero_day`
 -	Directory: `0x03-git`
 -	File: `bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js`
+-------------------------------------------------------
 
+
+
+-------------------------------------------------------
 ### 3\. Collaboration is the base of a company
-
-mandatory
 
 A branch is like a copy of your project. It’s used mainly for:
 
@@ -300,10 +295,12 @@ Ouf, hot fix is done!
 -	GitHub repository: `alx-zero_day`
 -	Directory: `0x03-git`
 -	File: `bash/alx, bash/school, bash/98`
+-------------------------------------------------------
 
+
+
+-------------------------------------------------------
 ### 4\. Collaboration: be up to date
-
-mandatory
 
 Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
 
@@ -320,10 +317,13 @@ After you have done that, in your terminal:
 -	GitHub repository: `alx-zero_day`
 -	Directory: `0x03-git`
 -	File: `README.md, up_to_date`
+-------------------------------------------------------
 
+
+**advanced**
+
+-------------------------------------------------------
 ### 5\. HAAA what did you do???
-
-advanced
 
 Collaboration is cool, but not really when you update the same file at the same time…
 
@@ -347,10 +347,12 @@ At the end, you should have all your work from the branch `update_script` (new f
 
 -	GitHub repository: `alx-zero_day`
 -	Directory: `0x03-git`
+-------------------------------------------------------
 
+
+
+-------------------------------------------------------
 ### 6\. Never push too much
-
-advanced
 
 Create a `.gitignore` file and define a rule to never push `~` files (generated by Emacs). [Tips](https://intranet.alxswe.com/rltoken/sEKIVnR2lEL0sN4jc26hhA "Tips")
 
@@ -359,3 +361,5 @@ Create a `.gitignore` file and define a rule to never push `~` files (generated 
 -	GitHub repository: `alx-zero_day`
 -	Directory: `0x03-git`
 -	File: `.gitignore`
+-------------------------------------------------------
+
